@@ -114,7 +114,7 @@ class CalendarStyle {
     this.eventDayStyle = const TextStyle(),
     this.markersColors,
     // TODO: change selected color to red
-    this.selectedColor = const Color(0xFFFF0000), // Material indigo[400]
+    this.selectedColor = const Color(0xFF9E9E9E), // Material indigo[400]
     this.todayColor = const Color(0xffFFA07A), // Material indigo[200]
     this.markersColor = const Color(0xFF263238), // Material blueGrey[900]
     this.markersAlignment = Alignment.bottomCenter,
